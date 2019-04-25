@@ -78,3 +78,5 @@ Perform integration tests for screen transition.
 ```
 $ ./mvnw test -P itest
 ```
+"test push"
+
